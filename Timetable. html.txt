@@ -1,0 +1,83 @@
+<html>
+<head>
+    <title>Timetable</title>
+</head>
+<body>
+    <table border="6">
+        <caption>Timetable</caption>
+        <tr>
+            <th>Day/Time</th>
+            <th>7am</th>
+            <th>8am</th>
+            <th>9am</th>
+            <th>10am</th>
+            <th>11am</th>
+            <th>12am</th>
+            <th>1pm</th>
+            <th>2pm</th>
+            <th>3pm</th>
+            <th>4pm</th>
+            <th>5pm</th>
+            <th>6pm</th>
+        </tr>
+        <tr>
+            <th>MONDAY</th>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td colspan="3">CIR205</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr>
+            <th>TUESDAY</th>
+            <td></td>
+            <td></td>
+            <td colspan="3">CIR209</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td colspan="3">MMA227</td>
+        </tr>
+        <tr>
+            <th>WEDNESDAY</th>
+            <td></td>
+            <td colspan="3">CIT211 Theory</td>
+            <td colspan="3">CIT211 Prac</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>THURSDAY</th>
+            <td></td>
+            <td></td>
+            <td colspan="3">CIM207</td>
+            <td></td>
+            <td></td>
+            <td colspan="3">CIR201</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <th>FRIDAY</th>
+            <td colspan="2">CIR203</td>
+            <td colspan="3">CIS221</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>  
+</body>
+</html>
